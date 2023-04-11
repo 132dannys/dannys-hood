@@ -1,3 +1,4 @@
 .idea
 *.pyc
-api/dev.env
+api/.env
+api/local.env
